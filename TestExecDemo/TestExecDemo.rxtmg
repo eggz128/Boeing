@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modulegroupdoc
+rxversion="9.2">
+	<testsuiteentryhierarchy>
+		<flatlistofchildren>
+			<testmodule
+			id="5d54539e-7f32-42d2-a587-7c1ddfa39f01"
+			name="Recording2"
+			ref="2c1576cc-ff90-4e6e-8b83-655a3e6ce892"
+			type="Recording">
+			</testmodule>
+			<testmodule
+			id="8e6d7284-8c32-4b56-8b02-3adcb1589639"
+			name="Recording1"
+			ref="a445ba0c-e928-4a29-8cb3-e68c5b3ce9c9"
+			type="Recording">
+			</testmodule>
+			<modulegroups
+			id="9f86f12c-ead6-4d91-a5ce-e98cbdf413cf"
+			name="TestExecDemo">
+			</modulegroups>
+			<modulegroupdef
+			id="a75e76c4-96d3-45e9-95f1-33df109fe4f9"
+			name="Rec1And2">
+			</modulegroupdef>
+		</flatlistofchildren>
+		<childhierarchy>
+			<modulegroups
+			id="9f86f12c-ead6-4d91-a5ce-e98cbdf413cf"
+			name="TestExecDemo">
+				<modulegroupdef
+				id="a75e76c4-96d3-45e9-95f1-33df109fe4f9"
+				name="Rec1And2">
+					<testmodule
+					id="8e6d7284-8c32-4b56-8b02-3adcb1589639"
+					name="Recording1">
+					</testmodule>
+					<testmodule
+					id="5d54539e-7f32-42d2-a587-7c1ddfa39f01"
+					name="Recording2">
+					</testmodule>
+				</modulegroupdef>
+			</modulegroups>
+		</childhierarchy>
+	</testsuiteentryhierarchy>
+</modulegroupdoc>

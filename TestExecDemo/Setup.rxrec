@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="132f1858-da17-4f5e-bd8a-fc552d460c14"
+mode="Global">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="Setup"
+	namespace="TestExecDemo">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+	</recorditems>
+	<repository
+	id="136fe3e3-1a90-4373-9519-d6fd377259cc"
+	name="TestExecDemoRepository"
+	relativepath="TestExecDemoRepository.rxrep">
+		<codegen
+		classname="TestExecDemoRepository"
+		namespace="TestExecDemo">
+		</codegen>
+		<rootfolder
+		id="c37d2f64-5c2b-49e6-a6ad-2dcd49b71c81"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		Setup.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>

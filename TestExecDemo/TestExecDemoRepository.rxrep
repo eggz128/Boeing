@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<repository
+name="TestExecDemoRepository"
+id="136fe3e3-1a90-4373-9519-d6fd377259cc">
+  <codegen
+  classname="TestExecDemoRepository"
+  namespace="TestExecDemo"/>
+  <rootfolder
+  name="Root"
+  id="c37d2f64-5c2b-49e6-a6ad-2dcd49b71c81"
+  searchtimeout="30000ms"
+  capname="unknown"
+  isrooted="True"
+  usecache="True">
+    <basepath/>
+  </rootfolder>
+  <variables/>
+</repository>
