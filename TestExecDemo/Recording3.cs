@@ -79,6 +79,8 @@ namespace TestExecDemo
 
             Init();
 
+            Report.Log(ReportLevel.Info, "User", "Hello world", new RecordItemIndex(0));
+            
         }
 
 #region Image Feature Data

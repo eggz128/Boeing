@@ -214,18 +214,23 @@
     </Content>
     <Content Include="NewCustomTemplate1\RanorexReport.css">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <id>324473e0-dd0b-45e9-b609-a9ee6b0ddc90</id>
     </Content>
     <Content Include="NewCustomTemplate1\RanorexReport.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <id>163d7f00-abc4-47a8-a069-e4b494eba9f6</id>
     </Content>
     <Content Include="NewCustomTemplate1\RanorexReport.xsl">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <id>00026e73-03a5-44ce-904f-ee0cd57eea7b</id>
     </Content>
     <Content Include="NewCustomTemplate1\View.rxlog">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <id>d318668a-1875-402c-8ac9-6a07d46ad0d5</id>
     </Content>
     <Content Include="NewCustomTemplate1\View.rxlog.data">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <id>4dd7eb2d-a0b0-4a37-a003-ad9787428271</id>
     </Content>
     <None Include="app.config">
       <id>410a1a3d-7042-445c-b266-b0cfe026d26e</id>
@@ -289,6 +294,7 @@
   <ItemGroup>
     <Folder Include="NewCustomTemplate1">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <id>191ef451-2960-45d4-ac6a-b8c82e6a4ddc</id>
     </Folder>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

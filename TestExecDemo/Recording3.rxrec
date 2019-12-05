@@ -25,6 +25,18 @@ mode="Global">
 	<variables>
 	</variables>
 	<recorditems>
+		<loggingrecorditem
+		category="User"
+		enabled="True"
+		message="Hello world"
+		optional="False"
+		reportlevel="Info;20"
+		searchpropertyid="a148b0f7-7b11-4caf-bd3d-ccf3b098e99f">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+		</loggingrecorditem>
 	</recorditems>
 	<repository
 	id="136fe3e3-1a90-4373-9519-d6fd377259cc"
