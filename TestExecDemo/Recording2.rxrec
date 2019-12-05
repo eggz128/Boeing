@@ -25,21 +25,6 @@ mode="Global">
 	<variables>
 	</variables>
 	<recorditems>
-		<userrecorditem
-		classname="Recording2"
-		enabled="True"
-		isexternaltestmethod="False"
-		methodname="MakeAnError"
-		namespace="TestExecDemo"
-		optional="False">
-			<comment>
-			</comment>
-			<bindings>
-			</bindings>
-			<arguments
-			id="71936d11-84a6-4b52-94d2-da9d7ea32d27">
-			</arguments>
-		</userrecorditem>
 	</recorditems>
 	<repository
 	id="136fe3e3-1a90-4373-9519-d6fd377259cc"

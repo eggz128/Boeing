@@ -79,9 +79,6 @@ namespace TestExecDemo
 
             Init();
 
-            MakeAnError();
-            Delay.Milliseconds(0);
-            
         }
 
 #region Image Feature Data
